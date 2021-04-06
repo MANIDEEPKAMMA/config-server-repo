@@ -1,1 +1,1 @@
-# config-server-repo
+# config.properies
